@@ -12,17 +12,65 @@
         },
         {   
             "id": 3,
-            "nombre":"INNOVACION",
+            "nombre":"INNOVACION Y GESTION",
             "color":"#FFBA05"
-        },
-        {
-            "id": 4,
-            "nombre":"GESTION",
-            "color": "#0403ff"
         }
     ],
     "videos":[
-
+        {
+            "id" : 1,
+            "titulo" : "Cuándo usar let, var y const?",
+            "src" : "https://www.youtube.com/embed/PztCEdIJITY?si=lkVDX1G3wynDfYRe",
+            "idCategoria" : 1
+        },
+        {
+            "id" : 2,
+            "titulo" : "¿Qué es JavaScript?",
+            "src" : "https://www.youtube.com/embed/GJfOSoaXk4s?si=67wZlLwIKIKvNE4s",
+            "idCategoria" : 1
+        },
+        {
+            "id" : 3,
+            "titulo" : "Equipo Front End",
+            "src" : "https://www.youtube.com/embed/rpvrLaBQwgg?si=a0PrcQSL6R3BKBbs",
+            "idCategoria" : 1
+        },
+        {
+            "id" : 4,
+            "titulo" : "Spring Framework. ¿Qué es ?",
+            "src" : "https://www.youtube.com/embed/t-iqt1b2qqk?si=wXa9DSGUBkDN_sm3",
+            "idCategoria" : 2
+        },
+        {
+            "id" : 5,
+            "titulo" : "¿Qué es SQL y NoSQL?",
+            "src" : "https://www.youtube.com/embed/cLLKVd5CNLc?si=-4OU7q3XwTY1wWuF",
+            "idCategoria" : 2
+        },
+        {
+            "id" : 6,
+            "titulo" : "Simplificando tu código en Java: Conoce los enum",
+            "src" : "https://www.youtube.com/embed/EoPvlE85XAQ?si=TGdQbbfjJ65cIY8W",
+            "idCategoria" : 2
+        },
+        {
+            "id" : 7,
+            "titulo" : "¿Qué son las Soft Skills?",
+            "src" : "https://youtu.be/vhwspfvI52k?si=AR4VoRC00tW4cryH",
+            "idCategoria" : 3
+        },
+        {
+            "id" : 8,
+            "titulo" : "¿Qué son las Soft Skills?",
+            "src" : "https://www.youtube.com/embed/vhwspfvI52k?si=V_WutorCZb8F6UsS",
+            "idCategoria" : 3
+        },
+        {
+            "id" : 9,
+            "titulo" : "¿Qué son las metodologias ágiles?",
+            "src" : "https://www.youtube.com/embed/6N3OkLCfK-0?si=np2T1IVkrWvVO3on",
+            "idCategoria" : 3
+        }
     ]
 }
 
